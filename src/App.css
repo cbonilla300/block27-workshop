@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,45 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+body {
+  background-color: black;
+  text-align: center;
+  
+}
+div{
+  text-align: center;
+}
+ form {
+  text-align: center;
+  margin-left: 100px;
+  display: inline-block;
+  
+}
+label{
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: inline-block;
+  color: red;
+} 
+
+h2 {
+  text-align: center;
+  margin-left: 00px;
+  color: red;
+}
+
+button {
+  
+  display: inline-block;
+  color: red
+}
+.submit {
+  display: inline-block;
+  margin-left: 20px;
+ 
+  
+  
 }
